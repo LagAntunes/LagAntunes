@@ -1,16 +1,16 @@
 ### <h1>E aí pessoal, tudo bem? Eu sou o <strong>Luis Antonio</strong> 👋</h1>
 
 
-- 🔭 Estou buscando por oportunidades de trabalho nas áreas de <strong>desenvolvimento Web, de Software ou de Sistemas</strong>.
-- 📚 Atualmente sou estudante de desenvolvimento Web com foco na formação Full-Stack.
-- 📫 Entre em contato comigo no email: luis151617@outlook.com
-- ☎️ Ou me mande uma mensagem no WhatsApp: (41) 98492-0165
-- 💼 Me adicone e fale comigo também no Linkedin:  https://www.linkedin.com/in/luis-antonio-garcia-antunes/
+<h3>- 🔭 Estou buscando por oportunidades de trabalho nas áreas de <strong>desenvolvimento Web, de Software ou de Sistemas</strong>.<br><br>
+- 📚 Atualmente sou estudante de desenvolvimento Web com foco na formação Full-Stack.<br><br>
+- 📫 Entre em contato comigo no email: luis151617@outlook.com<br><br>
+- ☎️ Ou me mande uma mensagem no WhatsApp: (41) 98492-0165<br><br>
+- 💼 Me adicone e fale comigo também no Linkedin:  https://www.linkedin.com/in/luis-antonio-garcia-antunes/</h3><br>
 
 <div align="center">
   <a href="https://github.com/LagAntunes">
-  <img height="195em" width="45%" src="https://github-readme-stats.vercel.app/api?username=LagAntunes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="195em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagAntunes&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="195em" width="47%" src="https://github-readme-stats.vercel.app/api?username=LagAntunes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="195em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagAntunes&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
 <div style="display: inline_block"><br>
