@@ -1,3 +1,5 @@
+<p align="right"><a href="https://github.com/LagAntunes/LagAntunes.En">🌐 Versão em Inglês (English version)</p></a>
+
 <h1 align="center">👋 Olá! Eu sou o Luis Antonio</h1>
 
 <p align="center">
