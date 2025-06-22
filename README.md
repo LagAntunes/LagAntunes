@@ -8,10 +8,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.  
-- 💼 Desenvolvedor Front-End Jr na **Sirius Interativa**.  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela **Universidade Positivo**.  
+- 💼 Desenvolvedor Front-End na **Sirius Interativa**.  
 - ⚛️ Trabalho com **HTML, CSS/SASS, JavaScript, TypeScript, React, Wagtail CMS** e boas práticas de SEO.  
-- 🎥 Criei o canal [@carecaDeveloper](https://www.youtube.com/@carecaDeveloper), onde compartilho conteúdo técnico e dicas de carreira.  
+- 🎥 Criei o canal [@carecaDeveloper](https://www.youtube.com/@carecaDeProgramar), onde compartilho coisas que aprendi no mundo da programação e troco uma ideia sobre a carreira no mundo da tecnologia.  
 
 ---
 
@@ -50,7 +50,7 @@
 
 ### 🧠 Quer saber mais?
 
-Acesse meu canal no YouTube: [@carecaDeveloper](https://www.youtube.com/@carecaDeveloper)  
+Acesse meu canal no YouTube: [@carecaDeveloper](https://www.youtube.com/@carecaDeProgramar)  
 Lá compartilho o que aprendi com projetos reais, tutoriais e desafios!
 
 ---
