@@ -11,7 +11,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela **Universidade Positivo**.  
-- 💼 Desenvolvedor Front-End na **Sirius Interativa**.  
+- 💼 Desenvolvedor Front-End independente.  
 - ⚛️ Trabalho com **HTML, CSS/SASS, JavaScript, TypeScript, React, Wagtail CMS** e boas práticas de SEO.  
 - 🎥 Criei o canal [@carecaDeProgramar](https://www.youtube.com/@carecaDeProgramar), onde compartilho coisas que aprendi no mundo da programação e troco uma ideia sobre a carreira no mundo da tecnologia.  
 
