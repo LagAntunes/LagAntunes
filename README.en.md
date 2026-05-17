@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Degree in Systems Analysis and Development from **Universidade Positivo**.  
-- 💼 Front-End Developer at **Sirius Interativa**.  
+- 💼 Independent Front-End Developer.  
 - ⚛️ I work with **HTML, CSS/SASS, JavaScript, TypeScript, React, Wagtail CMS**, and SEO best practices.  
 - 🎥 I created the channel [@carecaDeProgramar](https://www.youtube.com/@carecaDeProgramar), where I share what I've learned in the programming world and talk about careers in tech.  
 
