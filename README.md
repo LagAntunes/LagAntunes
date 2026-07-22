@@ -13,7 +13,6 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela **Universidade Positivo**.  
 - 💼 Desenvolvedor Front-End independente.  
 - ⚛️ Trabalho com **HTML, CSS/SASS, JavaScript, TypeScript, React, Wagtail CMS** e boas práticas de SEO.  
-- 🎥 Criei o canal [@carecaDeProgramar](https://www.youtube.com/@carecaDeProgramar), onde compartilho coisas que aprendi no mundo da programação e troco uma ideia sobre a carreira no mundo da tecnologia.  
 
 ---
 
@@ -37,15 +36,6 @@
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" />
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" />
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="195em" width="47%" src="https://github-readme-stats.vercel.app/api?username=LagAntunes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="195em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagAntunes&layout=compact&langs_count=7&theme=gruvbox" />
 </div>
 
 ---
