@@ -39,10 +39,3 @@
 </div>
 
 ---
-
-### 🧠 Quer saber mais?
-
-Acesse meu canal no YouTube: [@carecaDeProgramar](https://www.youtube.com/@carecaDeProgramar)  
-Lá compartilho o que aprendi com projetos reais, tutoriais e desafios!
-
----
